@@ -1,0 +1,6 @@
+# Run output lists your collection; keep it out of the repo
+*.csv
+
+__pycache__/
+*.pyc
+.venv/
